@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "papers": [
+    {
+      "id": "2611.08978",
+      "title": "On the Communication Complexity of Shortcut Set Computation",
+      "authors": [
+        "Gregory Bodwin",
+        "Luba Samborska"
+      ],
+      "published": "2026-11-06T04:41:12Z",
+      "updated": "2026-11-06T04:41:12Z",
+      "primary_category": "cs.DS",
+      "journal_ref": "",
+      "doi": ""
+    },
+    {
+      "id": "2604.03412",
+      "title": "Improved Upper Bounds for the Directed Flow-Cut Gap",
+      "authors": [
+        "Greg Bodwin",
+        "Luba Samborska"
+      ],
+      "published": "2026-04-03T19:15:44Z",
+      "updated": "2026-07-09T01:24:09Z",
+      "primary_category": "cs.DS",
+      "journal_ref": "",
+      "doi": ""
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "search_query": "au:Samborska",
+  "author_names": ["Luba Samborska", "Liubov Samborska"],
+  "exclude_ids": [],
+  "overrides": {
+    "2611.08978": {
+      "venue": "In Submission"
+    },
+    "2604.03412": {
+      "venue": "FOCS 2026",
+      "description_html": "An <span class=\"math\">n<sup>1/3 + o(1)</sup></span> upper bound on the directed flow–cut gap, with reductions connecting the edge and vertex settings.",
+      "conference_url": "https://focs.computer.org/2026/accepted-papers/"
+    }
+  }
+}
